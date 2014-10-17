@@ -1,0 +1,315 @@
+body {
+    margin: 0;
+    padding: 2px;
+    overflow-x: hidden;
+    background-color: rgba(255,255,255,1.0);
+    height: 454px;
+    width: 200px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+}
+
+#MenuItemContainer_id_1 {
+    border-width: 2px;
+    border-style: ridge;
+    border-color: rgba(0,209,66,0.7294118);
+    border-radius: 13px;
+    cursor: pointer;
+
+    width: 196px;
+    height: 24px;
+
+    -webkit-transition: border-color .1s ease-out;
+}
+
+#MenuItemControl_id_1 {
+    display: table;
+    clear: both;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    color: rgba(0,0,0,1.0);
+    background: none;
+
+    font-size: 12px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    padding-left: 3px;
+
+        margin: 0 auto;
+}
+
+#MenuItemControl_id_1:hover {
+}
+
+#MenuItemControl_Icon_id_1 {
+    background: url('../none') no-repeat center center;
+    height: 24px;
+    width: 24px
+}
+
+#MenuItemContainer_id_1:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(102,153,204,1.0);
+    border-radius: 4px;
+
+    background: rgba(238,238,255,1.0);
+    outline: 0;
+}
+#MenuItemContainer_id_2 {
+    border-width: 2px;
+    border-style: ridge;
+    border-color: rgba(0,209,66,0.7294118);
+    border-radius: 13px;
+    cursor: pointer;
+
+    width: 196px;
+    height: 24px;
+
+    -webkit-transition: border-color .1s ease-out;
+}
+
+#MenuItemControl_id_2 {
+    display: table;
+    clear: both;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    color: rgba(0,0,0,1.0);
+    background: none;
+
+    font-size: 12px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    padding-left: 3px;
+
+        margin: 0 auto;
+}
+
+#MenuItemControl_id_2:hover {
+}
+
+#MenuItemControl_Icon_id_2 {
+    background: url('../none') no-repeat center center;
+    height: 24px;
+    width: 24px
+}
+
+#MenuItemContainer_id_2:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(102,153,204,1.0);
+    border-radius: 4px;
+
+    background: rgba(238,238,255,1.0);
+    outline: 0;
+}
+#MenuItemContainer_id_3 {
+    border-width: 2px;
+    border-style: ridge;
+    border-color: rgba(28,196,81,0.78431374);
+    border-radius: 13px;
+    cursor: pointer;
+
+    width: 196px;
+    height: 24px;
+
+    -webkit-transition: border-color .1s ease-out;
+}
+
+#MenuItemControl_id_3 {
+    display: table;
+    clear: both;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    color: rgba(0,0,0,1.0);
+    background: none;
+
+    font-size: 12px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    padding-left: 3px;
+
+        margin: 0 auto;
+}
+
+#MenuItemControl_id_3:hover {
+}
+
+#MenuItemControl_Icon_id_3 {
+    background: url('../none') no-repeat center center;
+    height: 24px;
+    width: 24px
+}
+
+#MenuItemContainer_id_3:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(102,153,204,1.0);
+    border-radius: 4px;
+
+    background: rgba(238,238,255,1.0);
+    outline: 0;
+}
+
+#ImageControl_id_4 {
+    height: 80px;
+    width: 198px;
+    float:left;
+    background-position: center center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(255,255,255,0.0);
+    border-radius: 0px;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+}
+#MenuItemContainer_id_5 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(255,255,255,0.0);
+    border-radius: 0px;
+    cursor: pointer;
+
+    width: 198px;
+    height: 24px;
+
+    -webkit-transition: border-color .1s ease-out;
+}
+
+#MenuItemControl_id_5 {
+    display: table;
+    clear: both;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    color: rgba(0,0,0,1.0);
+    background: none;
+
+    font-size: 12px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    padding-left: 3px;
+
+        margin: 0 auto;
+}
+
+#MenuItemControl_id_5:hover {
+}
+
+#MenuItemControl_Icon_id_5 {
+    background: url('../none') no-repeat center center;
+    height: 24px;
+    width: 24px
+}
+
+#MenuItemContainer_id_5:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(102,153,204,1.0);
+    border-radius: 4px;
+
+    background: rgba(238,238,255,1.0);
+    outline: 0;
+}
+
+#SocialBoxControl_id_6 {
+    width: 198px;
+    float: left;
+    height: 24px;
+    position:relative;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(255,255,255,0.0);
+    border-radius: 0px;
+}
+
+#SocialBoxControl_id_6 ul{
+    margin: 0px;
+    position: absolute;
+    padding-left: 7px;
+    height:24px;
+    overflow:  hidden;
+}
+
+#SocialBoxControl_id_6 li{
+    float: left;
+    list-style-type: none;
+    display: block;
+}
+
+#SocialBoxControl_id_6 li {
+    cursor: pointer;
+}
+
+#SocialBoxControl_id_6 div {
+    width: 24px;
+    height: 24px;
+    background-position: center center;
+}
+
+#SocialBoxControl_id_6 .sbFacebook div{
+
+    background-image: url('/img/social/FaceBook_24x24.png');
+}
+
+#SocialBoxControl_id_6 .sbGooglePlus div{
+
+    margin-left: 16px;
+    background-image: url('/img/social/GooglePlus_24x24.png');
+}
+#SocialBoxControl_id_6 .sbLinkedIn div{
+
+    margin-left: 16px;
+    background-image: url('/img/social/LinkedIn_24x24.png');
+}
+#SocialBoxControl_id_6 .sbMySpace div{
+    display: none;
+
+    margin-left: 16px;
+    background-image: url('/none');
+}
+#SocialBoxControl_id_6 .sbTwitter div{
+
+    margin-left: 16px;
+    background-image: url('/img/social/Twitter_24x24.png');
+}
+#SocialBoxControl_id_6 .sbYouTube div{
+
+    margin-left: 16px;
+    background-image: url('/img/social/YouTube_24x24.png');
+}
+::-webkit-scrollbar {
+    width: 4px;
+    height: 4px
+}
+
+::-webkit-scrollbar-track-piece {
+    background-color: white;
+    -webkit-border-radius: 8px
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #777;
+    -webkit-border-radius: 8px
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+    background-color: #777;
+    -webkit-border-radius: 8px;
+}
+
+div#NewsFeedControl_id_7 {
+    position: relative;
+    float: left;
+    overflow-y: auto;
+    padding-left: 0px;
+    height: 250px;
+}
