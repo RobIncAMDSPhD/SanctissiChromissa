@@ -3,11 +3,23 @@ body {
     padding: 2px;
     overflow-x: hidden;
     background-color: rgba(255,255,255,1.0);
-    height: 454px;
+    height: 558px;
     width: 200px;
     background-position: left top;
     background-repeat: no-repeat;
     background-size: auto auto;
+}
+
+#HtmlBoxControl_id_9 {
+    width: 198px;
+    float: left;
+    height: 120px;
+    position:relative;
+    padding-left: 0px
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(255,255,255,0.0);
+    border-radius: 0px;
 }
 
 #MenuItemContainer_id_1 {
@@ -51,6 +63,55 @@ body {
 }
 
 #MenuItemContainer_id_1:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(102,153,204,1.0);
+    border-radius: 4px;
+
+    background: rgba(238,238,255,1.0);
+    outline: 0;
+}
+#MenuItemContainer_id_8 {
+    border-width: 2px;
+    border-style: ridge;
+    border-color: rgba(0,209,66,0.7294118);
+    border-radius: 13px;
+    cursor: pointer;
+
+    width: 196px;
+    height: 24px;
+
+    -webkit-transition: border-color .1s ease-out;
+}
+
+#MenuItemControl_id_8 {
+    display: table;
+    clear: both;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    color: rgba(0,0,0,1.0);
+    background: none;
+
+    font-size: 12px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    padding-left: 3px;
+
+        margin: 0 auto;
+}
+
+#MenuItemControl_id_8:hover {
+}
+
+#MenuItemControl_Icon_id_8 {
+    background: url('../none') no-repeat center center;
+    height: 24px;
+    width: 24px
+}
+
+#MenuItemContainer_id_8:hover {
     border-width: 1px;
     border-style: solid;
     border-color: rgba(102,153,204,1.0);
@@ -223,7 +284,7 @@ body {
 #SocialBoxControl_id_6 {
     width: 198px;
     float: left;
-    height: 24px;
+    height: 30px;
     position:relative;
     border-width: 1px;
     border-style: solid;
@@ -235,7 +296,7 @@ body {
     margin: 0px;
     position: absolute;
     padding-left: 7px;
-    height:24px;
+    height:30px;
     overflow:  hidden;
 }
 
