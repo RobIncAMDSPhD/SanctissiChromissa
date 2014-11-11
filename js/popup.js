@@ -117,11 +117,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
         document.querySelector('#MenuItemContainer_id_1').addEventListener('click', function(){
             if (urlHandler) {
-                urlHandler('http://missa.cloud59.ca/cgi-bin/missa/missa.pl', function(url){
+                urlHandler('http://missa.StAndroid.ca/cgi-bin/missa/missa.pl', function(url){
                     openGetPostUrl(url, true, false, '');
                 });
             } else {
-                openGetPostUrl('http://missa.cloud59.ca/cgi-bin/missa/missa.pl', true, false, '');
+                openGetPostUrl('http://missa.StAndroid.ca/cgi-bin/missa/missa.pl', true, false, '');
             }
           });
 
@@ -129,11 +129,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
         document.querySelector('#MenuItemContainer_id_8').addEventListener('click', function(){
             if (urlHandler) {
-                urlHandler('http://missa.cloud59.ca/cgi-bin/horas/officium.pl', function(url){
+                urlHandler('http://missa.StAndroid.ca/cgi-bin/horas/officium.pl', function(url){
                     openGetPostUrl(url, true, false, '');
                 });
             } else {
-                openGetPostUrl('http://missa.cloud59.ca/cgi-bin/horas/officium.pl', true, false, '');
+                openGetPostUrl('http://missa.StAndroid.ca/cgi-bin/horas/officium.pl', true, false, '');
             }
           });
 
@@ -141,11 +141,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
         document.querySelector('#MenuItemContainer_id_2').addEventListener('click', function(){
             if (urlHandler) {
-                urlHandler('http://ordo.cloud59.ca', function(url){
+                urlHandler('http://ordo.StAndroid.ca', function(url){
                     openGetPostUrl(url, true, false, '');
                 });
             } else {
-                openGetPostUrl('http://ordo.cloud59.ca', true, false, '');
+                openGetPostUrl('http://ordo.StAndroid.ca', true, false, '');
             }
           });
 

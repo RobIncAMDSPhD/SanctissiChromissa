@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Sanctissi-Missa",
   "short_name": "St. Android's Missal",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "[+amgD] Access today\u0027s Saints, Feast Day Calendar (Ordo), and the text of today\u0027s traditional Roman-Catholic Latin Mass.",
   "icons": {
     "48": "img/icon-48.png",
