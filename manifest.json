@@ -2,9 +2,9 @@
   "manifest_version": 2,
   "name": "Sanctissi-Missa",
   "short_name": "St. Android's Missal",
-  "version": "2.1.1",
-  "description": "[+amgD] Access today\u0027s Saints, Feast Day Calendar (Ordo), and the text of today\u0027s traditional Roman-Catholic Latin Mass.",
-  "icons": {
+  "version": "2.2.1",
+  "description": "[+amgD] St. Android's Daily Chro-Missal Extension! Access today\u0027s Saints, Feast Day Calendar (Ordo), and the text of today\u0027s traditional Roman-Catholic Latin Mass. This app provides a real-time generated text of the Holy Mass in the Extraordinary Form (Latin, as per the 1962 Missal) used by the Roman Catholic Church throughout its history.  It is also commonly known as the \u0027Tridentine Mass,\u0027 due to its supposed standardisation around AD 1570 at the Council of Trent, but has undergone minor revisions over the centuries; Pope Emeritus Benedict XVI in 2008 explicitly gave his sanction and encouraged the celebration of Holy Mass in the Extraordinary Form in \u0027every parish.\u0027 The Liturgical Calendar used for the Extraordinary Form, which follows the 1962 rubrics, was the Universal Calendar of the Church, which was a perpetually-reckoned system unlike the Ordinary Form\u0027s three-year cycle which now requires re-purchase of Missals annually; with the exception of transferred feast days, the same Missal could be used perpetually, and continues to find utility in the Extraordinary Form.",
+"icons": {
     "48": "img/icon-48.png",
     "16": "img/icon-16.png",
     "128": "img/icon-128.png"
